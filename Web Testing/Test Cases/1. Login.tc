@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case Website Saucedemo</description>
+   <name>1. Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9829e59-a78c-4d92-860b-2d1fa3ea96aa</testCaseGuid>
+</TestCaseEntity>

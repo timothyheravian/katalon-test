@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checkout item in saucedemo website</description>
+   <name>2. Checkout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c7f6e3ac-57a3-45db-9335-0b600a4fa34d</testCaseGuid>
+</TestCaseEntity>

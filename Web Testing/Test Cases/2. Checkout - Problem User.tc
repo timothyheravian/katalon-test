@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checkout item in saucedemo website</description>
+   <name>2. Checkout - Problem User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>79f1eee8-87f2-4f72-ac1e-c85f9bcf8256</testCaseGuid>
+</TestCaseEntity>
